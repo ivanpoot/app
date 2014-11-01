@@ -1,0 +1,117 @@
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 06:33:22
+ARCHIVO: C:\xampp\htdocs\app\Controllers\UsersController.php
+LINEA : 25
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined variable: var
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 06:33:38
+ARCHIVO: C:\xampp\htdocs\app\Controllers\UsersController.php
+LINEA : 25
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined variable: var
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 06:34:03
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 6
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 16:50:49
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 6
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 16:50:57
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 6
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 16:54:23
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 6
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 16:55:55
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 6
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 16:56:08
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 6
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 16:56:22
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 6
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-10-28 16:56:58
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 6
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-11-01 04:31:18
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 18
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-11-01 04:32:36
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 18
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+FECHA: 2014-11-01 04:34:02
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 18
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
